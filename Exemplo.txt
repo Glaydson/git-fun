@@ -8,4 +8,7 @@ Junho de 2017
 Minicurso de Angular
 Professor JC
 Maio de 2017
+*************
+Minicurso de Java
+Professor Roberto
 
