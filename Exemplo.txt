@@ -1,3 +1,6 @@
 Minicurso de Git
 Professor Glaydson
 Maio de 2017
+****************
+Professor Adail
+Junho de 2017
